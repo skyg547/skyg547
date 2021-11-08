@@ -267,7 +267,7 @@ OPIC IM1
 
 
 
-
+<!--
 ![가로선](https://lh6.googleusercontent.com/F9nNowRtdVgUINNg0k8ALDM_LLP5V0t-djf3AKIajJGyOSdpb0Dko4gmrXZ1uzLXWhXhY3GYF3IfzYoGTD6l60ZdCJ56soRTy2NxmmZta4BuO6OJXgeZ6A3fscc9FPuQtr3nh89n)
 
 
@@ -436,3 +436,4 @@ Hotfix 는 혼자서도 집수리를 할 수 있게 만들어주는 안드로이
 
  접속시 각 카페 브랜드 대표 빙수 목록 추천, 카페별 메뉴판 접속할 때, 목록 및 가격, 빙수 사진과 설명을 하는 서비스입니다 HTML의 으로 기본적인 화면을 구성하였으며, 페이지간 화면 전환은 하이퍼링크 형식으로 설계, CSS로 디자인하고, Namo Web Editor의 JS를 기반한 기능을 이용해 물체가 동적으로 움직일 수 있게 하였습니다.
 
+-->
