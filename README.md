@@ -23,8 +23,11 @@ Git Hub : https://github.com/skyg547
 
 Blog : https://ho-log.tistory.com/
 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" /><br />
-<img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" />
+<img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" /><img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
+
+
+**History**
+![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
 
 <h2>Tech Stack</h2>
 
@@ -93,12 +96,6 @@ InSomnia
 Toad
 
 SQL Developer
-
-<!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" /> -->
-
-**History**
-![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
-
 
 ![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
 
