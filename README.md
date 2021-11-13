@@ -1,41 +1,7 @@
-### 
-
-<!--
-
-----
-
-### Hi there 👋
-**skyg547/skyg547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-  ![](C:\Users\gktjd\Downloads\포트폴오\images\image4.png)
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
--->
-
-
-
-![가로선](https://lh6.googleusercontent.com/nt7UsFiZiOMio0MHCT7T7AxfU_N0ZDeD0BzxAMw0vTfFfEcPDvGDB-8oR8hRwE0KKx60V5fbgWvN7RPPjnvEq3gvnTAqrb-btWbqYVlPpxpOxD1zstw2bNwchNVY58dAi_XdVlya)
-
-<!-- <style>
+<style>
     div {
         display: flex;
         justify-content: center;
@@ -45,11 +11,36 @@ Here are some ideas to get you started:
         border-radius: 5px;
         box-shadow: 1.5px 1.5px
     }
-</style> -->
+</style>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 
 <div align="center">
+
     <h1>👋 Hi there👋</h1>
+
+😄**Introduction**
+나이 : 26세(1996.11.04)
+
+안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다 <br/>
+사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.<br/>
+개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.<br/>
+프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/>
+
+
+
+💬**Contact & Channel**
+Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
+
+Phone : (+82) 9013-1867
+
+EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
+
+Git Hub : https://github.com/skyg547
+
+Blog : https://ho-log.tistory.com/
+
+
+
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
     <br /> 
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
@@ -87,36 +78,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
         <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
     </div>
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
-
-
-**Introduction**
-나이 : 26세(1996.11.04)
-
-안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다
-사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.
-개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.
-프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.
-
-
-
-**Contact & Channel**
-Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
-
-Phone : (+82) 9013-1867
-
-EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
-
-Git Hub : https://github.com/skyg547
-
-Blog : https://ho-log.tistory.com/
-
-
-
-**History**
-![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
 
 
 
@@ -166,12 +127,18 @@ PostMan, InSomnia
 
 Toad, SQL Developer
 
+
+
+
+**History**
+![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
+
+
 ![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
 
-**아성다이소**
+🔭**아성다이소**
 
- 회계시스템 개발2021년 5월 - 현재, 강남 
-
+회계시스템 개발2021년 5월 - 현재, 강남 
 
 
 모바일 경비 청구 
@@ -199,6 +166,7 @@ Toad, SQL Developer
 
 ![가로선](https://lh6.googleusercontent.com/ySMHM29SDIH4nkc2_rU43WHQEpqged7ARvShZ7pb450d0wPKoHO2Gux3_TpR_yAcLeM3Um_SCP8bUHsXKA9UclWar8i3hT0F3Qx-IWHhShCv7Nvdt0iGWAE8rHG9kLBqOWp0dAYA)
 
+🌱**EduCation & Study**📫
 부산외국어대학교
 
 컴퓨터공학과, 스마트언어IT
@@ -315,3 +283,27 @@ OPIC IM1
 **2019 서울시 스마트 앱 공모전**
 
 19.07.14-19.09.30집수리 관련 어플리케이션 출품 
+</div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
+
+<!--
+
+- 🔭 I’m currently working on ...
+
+- 🌱 I’m currently learning ...
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+
+-->
