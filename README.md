@@ -17,6 +17,7 @@
 <div align="center">
 
     <h1>👋 Hi there👋</h1>
+    <div>
 
 😄**Introduction**
 나이 : 26세(1996.11.04)
@@ -38,6 +39,7 @@ EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
 Git Hub : https://github.com/skyg547
 
 Blog : https://ho-log.tistory.com/
+    </div>
 
 
 
@@ -80,6 +82,7 @@ Blog : https://ho-log.tistory.com/
     </div>
 
 
+    <div>
 
 ![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
 
@@ -126,8 +129,12 @@ Google Docs, Presentation, SpreadSheet
 PostMan, InSomnia
 
 Toad, SQL Developer
+</div>
+
+</div>
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
 
 
 **History**
@@ -283,10 +290,6 @@ OPIC IM1
 **2019 서울시 스마트 앱 공모전**
 
 19.07.14-19.09.30집수리 관련 어플리케이션 출품 
-</div>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
 
 <!--
 
