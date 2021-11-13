@@ -1,107 +1,64 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 
+<h1>👋 Hi there👋</h1>
+😄**Introduction**
+나이 : 26세(1996.11.04)
 
+안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다 <br/>
+사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.<br/>
+개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.<br/>
+프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/>
 
-    !<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
-    <br /> 
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" />
-    <h2>Tech Stack</h2>
-    <div>
-        <h3>Web Client</h3>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-    </div>
-    <div>
-        <h3>Web Server</h3>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
-    </div>
-    <div>
-        <h3>Data</h3>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-    </div>
-    <div>
-        <h3>Infra</h3>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=Github%20Actions&logoColor=white" />
-    </div>
-    <div>
-        <h3>IDE</h3>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
-    </div>
+💬**Contact & Channel**
+Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
 
+Phone : (+82) 9013-1867
 
+EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
 
-            <h1>👋 Hi there👋</h1>
-        <p>😄**Introduction**
-        나이 : 26세(1996.11.04)
+Git Hub : https://github.com/skyg547
 
-        안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다 <br/>
-        사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.<br/>
-        개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.<br/>
-        프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/>
+Blog : https://ho-log.tistory.com/
 
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" />
 
+<h2>Tech Stack</h2>
 
-        💬**Contact & Channel**
-        Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
+<h3>Web Client</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+<p>Xplatform</p>
 
-        Phone : (+82) 9013-1867
-
-        EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
-
-        Git Hub : https://github.com/skyg547
-
-        Blog : https://ho-log.tistory.com/
-        </p>
-    </div>
-        <p>
-
-**Backend**
-
+<h3>Web Server</h3>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
+XML
 Java, SQL
-
+Junit4, Mockito
 Spring Boot, Spring MVC
-
 JPA, Mybatis
 
-Junit4, Mockito
+<h3>Data</h3>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<p>Oracle</p>
 
-Json, XML
+<h3>Infra</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
 
-Oracle, MySQL
-
-Maven, Gradle
-
-**DevOps**
-
-Linux
-
-NetWork
-
-**Frontend**
-
-HTML5, CSS3, JS
-
-Jquery
-
-Xplatform
-
-**Collaboration** & **Tools**
+<h3>IDE</h3>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
+<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
 
 Slack, Notin
 
-IntelliJ, VS Code, Pycharm, Eclipse
+VS Code, Pycharm, Eclipse
 
 Git, Github, SVN
 
@@ -110,9 +67,8 @@ Google Docs, Presentation, SpreadSheet
 PostMan, InSomnia
 
 Toad, SQL Developer
-        </p>
-</div>
 
+<!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" /> -->
 
 **History**
 ![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
