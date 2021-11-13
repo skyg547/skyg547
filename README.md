@@ -1,4 +1,3 @@
-###
 <style>
     div {
         display: flex;
@@ -10,36 +9,10 @@
         box-shadow: 1.5px 1.5px
     }
 </style>
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 
 <div align="center">
 
-    <h1>👋 Hi there👋</h1>
-    <div>
-        <p>😄**Introduction**
-        나이 : 26세(1996.11.04)
-
-        안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다 <br/>
-        사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.<br/>
-        개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.<br/>
-        프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/>
-
-
-
-        💬**Contact & Channel**
-        Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
-
-        Phone : (+82) 9013-1867
-
-        EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
-
-        Git Hub : https://github.com/skyg547
-
-        Blog : https://ho-log.tistory.com/
-        </p>
-    </div>
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
     <br /> 
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
@@ -77,10 +50,35 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
         <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
     </div>
+</div>
 
 
+ <div>
+            <h1>👋 Hi there👋</h1>
     <div>
-    <p>
+        <p>😄**Introduction**
+        나이 : 26세(1996.11.04)
+
+        안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다 <br/>
+        사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.<br/>
+        개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.<br/>
+        프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/>
+
+
+
+        💬**Contact & Channel**
+        Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
+
+        Phone : (+82) 9013-1867
+
+        EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
+
+        Git Hub : https://github.com/skyg547
+
+        Blog : https://ho-log.tistory.com/
+        </p>
+    </div>
+        <p>
 
 **Backend**
 
@@ -127,11 +125,6 @@ PostMan, InSomnia
 Toad, SQL Developer
         </p>
 </div>
-
-</div>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
 
 
 **History**
@@ -288,6 +281,9 @@ OPIC IM1
 **2019 서울시 스마트 앱 공모전**
 
 19.07.14-19.09.30집수리 관련 어플리케이션 출품 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
+
 
 <!--
 
