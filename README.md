@@ -35,12 +35,71 @@ Here are some ideas to get you started:
 
 ![가로선](https://lh6.googleusercontent.com/nt7UsFiZiOMio0MHCT7T7AxfU_N0ZDeD0BzxAMw0vTfFfEcPDvGDB-8oR8hRwE0KKx60V5fbgWvN7RPPjnvEq3gvnTAqrb-btWbqYVlPpxpOxD1zstw2bNwchNVY58dAi_XdVlya)
 
+<!-- <style>
+    div {
+        display: flex;
+        justify-content: center;
+    }
+    img {
+        margin: 0 0.3rem;
+        border-radius: 5px;
+        box-shadow: 1.5px 1.5px
+    }
+</style> -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
+
+<div align="center">
+    <h1>👋 Hi there👋</h1>
+    <p>I'm Jaeho Jang, a growing developer.</p>
+    <!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wogh6475" />
+    <br /> -->
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=wogh6475" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=lemphis&count_private=true&show_icons=true&theme=omni" />
+    <h2>Tech Stack</h2>
+    <div>
+        <h3>Web Client</h3>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+    </div>
+    <div>
+        <h3>Web Server</h3>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+        <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
+    </div>
+    <div>
+        <h3>Data</h3>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+    </div>
+    <div>
+        <h3>Infra</h3>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=Github%20Actions&logoColor=white" />
+    </div>
+    <div>
+        <h3>IDE</h3>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
+    </div>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
+
+
 **Introduction**
-
 나이 : 26세(1996.11.04)
-“하고자 하면, 못하는것이 없다. ’’ 
 
-안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다. 프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다
+안녕하세요. 1년차 개발자 하성호입니다.실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다
+사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.
+개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.
+프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.
 
 
 
@@ -137,10 +196,6 @@ Toad, SQL Developer
 기술스택 : HTML, CSS, JS, JSP, ORACLEERP 
 
 시스템에 매출 조회 메뉴 개발 
-
-
-
-
 
 
 ![가로선](https://lh6.googleusercontent.com/ySMHM29SDIH4nkc2_rU43WHQEpqged7ARvShZ7pb450d0wPKoHO2Gux3_TpR_yAcLeM3Um_SCP8bUHsXKA9UclWar8i3hT0F3Qx-IWHhShCv7Nvdt0iGWAE8rHG9kLBqOWp0dAYA)
@@ -261,179 +316,3 @@ OPIC IM1
 **2019 서울시 스마트 앱 공모전**
 
 19.07.14-19.09.30집수리 관련 어플리케이션 출품 
-
-
-
-
-
-
-<!--
-![가로선](https://lh6.googleusercontent.com/F9nNowRtdVgUINNg0k8ALDM_LLP5V0t-djf3AKIajJGyOSdpb0Dko4gmrXZ1uzLXWhXhY3GYF3IfzYoGTD6l60ZdCJ56soRTy2NxmmZta4BuO6OJXgeZ6A3fscc9FPuQtr3nh89n)
-
-
-
-**프로젝트명 : 자동 경비 드론**
-
-연계/소속회사 : 부산외국어대학교
-
-주요 업무 : 기획 및 개발담당 
-
-역할 : 기획, 알고리즘 개발
-
-
-
-기술 스택 
-
-하드웨어 : 코드론
-
-사용언어 : 파이썬
-
-툴 : Python Shell
-
-
-
-관련 기술 : 코드론 라이브러리
-
-업무 기간 : 20.04.17-20.06.12 (약 2개월)
-
-개발 인원 : 3인
-
-상세 내용 
-
-경비 드론은 자동으로 일정 시간 동안 소리를 내면서 지정된 경로를 순회하는 드론입니다. Python으로 codrone 관련 소스를 통해, 일정 시간 동안 정해진 경로를 도는 것과 전자음으로 음계 표를 구현하여 드론을 통해 노래가 나올 수 있는 알고리즘을 작성하였습니다.
-
-
-
-**2) 프로젝트명 : Melsinsa** 
-
-연계/소속회사 : 부산외국어대학교 
-
-주요 업무 : 기획 담당 
-
-역할 : 기획, 알고리즘 개발 
-
-기술 스택 
-
-하드웨어 : 라즈베리파이
-
-사용언어 : 파이썬
-
-툴 : python shell
-
-오픈소스 : GitHub, 
-
-환경 : Linux 
-
-업무 기간 : 20.04.17-20.06.12 (약 2개월) 
-
-개발 인원 : 4인 
-
-상세 내용  
-
-Melsinsa기상 온도를 받아와서 온도별로 오늘의 옷차림을 추천해주는 AI 스피커입니다. 라즈베리파이를 이용해 개발하였으며, 소프트웨어는 리눅스 환경에서 깃허브 멜리사 오픈소스를 이용해 파이썬으로 개발하였습니다. 라이브러리의 Temp메서드를 이용해 온도를 받아오면 온도에 따라 반소매, 긴소매, 겉옷 등을 정해주고 무작위로 숫자를 뽑고 숫자에 정해진 색상을 말해줍니다. 
-
-
-
-**3) 프로젝트명 : Hotfix** 
-
-연계/소속회사 : 부산외국어대학교 
-
-주요 업무 : 풀스택개발 담당 
-
-역할 : 기획, 디자인, 프론트엔드, 백엔드 
-
-기술 스택 : 
-
-클라이언트 사용언어 및 기술 : Java, XML 서버 
-
-사용언어 및 기술 : java, servlet, jsp, jdbc, SQL 
-
-데이터베이스: SQLite, mysql 
-
-빌드: gradle, maven 
-
-테스트 : 블랙박스 테스트 
-
-툴 : Eclipise, AndroidStudio, Tomcat, 
-
-환경: aws
-
-협업 및 관리 : Git, GitHub
-
-관련 기술 : 
-
-NAVER MapsAPI
-
-PhotoShop
-
-​	Pixlr
-
-서울시 열린 데이터 광장 
-
-업무 기간 : 19.07.14-19.09.30 (약 3개월) 
-
-개발 인원 : 3인 
-
-시범링크 : https://youtu.be/MLlyAbgadp8 
-
-상세 내용 
-
-Hotfix 는 혼자서도 집수리를 할 수 있게 만들어주는 안드로이드 애플리케이션 서비스입니다. 집수리하려면 업자를 불러야 하지만 Hotfix 을 통해 고치고자 하는 부분을 선택하면 동영상 강의를 통해 쉽게 배우고, 집수리의 기반 지식과 팁들을 학습할 수 있으며, 사용할 줄 모르는 공구 사용법을 알려주며, 근처의 공구도서관을 찾기를 통해 공구를 빌릴 수 있게 도와줍니다.공구 사용법 서비스와 공구도서관 찾기 서비스를 맡아 개발하였습니다. 공구 사용법 서비스는 각 공구의 사진과 기본적인 설명, 사용할 때의 요령을 알려주는 서비스입니다. 공구 도서관 찾기 서비스는 현재 자신의 위치에 가장 가까운 공구 도서관을 찾아 전화번호, 위치, 대여할 수 있는 공구 같은 정보들을 알려주는 서비스입니다.클라이언트 프로그램은 안드로이드 스튜디오를 통해 gradle, java, XML로 구현하였으며 서버 프로그램은 톰캣, 이클립스로 servlet, JSP, jstl, jQuery, JDBC를 이용하여 구현하였습니다. 데이터베이스와 서버는 Mysql 로 AWS를 사용 했습니다. 지도 서비스는 네이버 지도 MAP API와 서울시 열린 데이터 광장에서 정보를 가져와서 연동하였습니다.
-
-
-
-
-
-**4) 프로젝트명 : Window 2종 게임 세트** 
-
-연계/소속회사 : 부산외국어대학교 
-
-주요 업무 : 응용 프로그래밍 담당 
-
-역할 : 기획, 디자인, 화면개발, 알고리즘 개발 
-
-기술 스택 
-
-사용 언어 : C# 
-
-툴 : Visual Studio 
-
-환경 : Window	 
-
-업무 기간 :19.05.22-19.06.20 (약 1개월) 
-
-개발 인원 : 2인 
-
-상세 내용 
-
-윈도우 2종 게임 세트는 틀린 그림 찾기와, 스도쿠 게임을 제공하고 있습니다. 틀린 그림 찾기 단계는 7단계 까지 있으며, 스도쿠는 상, 중, 하 레벨로 구성되어있습니다. c#의 Window.Form을 이용하여 화면을 구성하였습니다. 틀린 그림 찾기의 그림의 틀린 영역을 클릭할 때 이벤트가 발생하여 정답 표시되게 나오는 것과 스도쿠 규칙을 적용하여 3가지의 배열 간 교차를 해서 랜덤하게 숫자를 뽑아내는 알고리즘으로 작성하였습니다. 2가지의 게임 모두 클리어 시 다음 단계로 넘어가며 게임마다 초기화를 할 수 있습니다.
-
-
-
-
-
-**5) 프로젝트명 : 핫빙수** 
-
-연계/소속회사 : 부산외국어대학교
-
-주요 업무 : 프론트엔드 전담 담당 
-
-역할 : 기획, 디자인, 프론트 엔드 개발
-
-기술 스택 
-
-사용 언어: HTML, CSS, JS
-
-툴 : Namo Web Editor
-
-환경 : dothome
-
-업무 기간 : 15.05.05-15.06.17 (약 1개월)
-
-개발 인원 : 1인
-
-상세 내용
-
- 접속시 각 카페 브랜드 대표 빙수 목록 추천, 카페별 메뉴판 접속할 때, 목록 및 가격, 빙수 사진과 설명을 하는 서비스입니다 HTML의 으로 기본적인 화면을 구성하였으며, 페이지간 화면 전환은 하이퍼링크 형식으로 설계, CSS로 디자인하고, Namo Web Editor의 JS를 기반한 기능을 이용해 물체가 동적으로 움직일 수 있게 하였습니다.
-
--->
