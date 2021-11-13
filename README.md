@@ -1,19 +1,8 @@
-<style>
-    div {
-        display: flex;
-        justify-content: center;
-    }
-    img {
-        margin: 0 0.3rem;
-        border-radius: 5px;
-        box-shadow: 1.5px 1.5px
-    }
-</style>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 
-<div align="center">
 
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
+
+    !<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
     <br /> 
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
     <br />
@@ -50,12 +39,10 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
         <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
     </div>
-</div>
 
 
- <div>
+
             <h1>👋 Hi there👋</h1>
-    <div>
         <p>😄**Introduction**
         나이 : 26세(1996.11.04)
 
