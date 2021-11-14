@@ -13,6 +13,8 @@
 프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/>
 
 💬**Contact & Channel**
+
+
 Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
 
 Phone : (+82) 9013-1867
@@ -26,7 +28,7 @@ Blog : https://ho-log.tistory.com/
 <img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" /><img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
 
 
-**History**
+👯**History**
 ![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
 
 <h2>Tech Stack</h2>
@@ -96,7 +98,7 @@ InSomnia
 Toad
 
 SQL Developer
-
+<!-- 
 ![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
 
 🔭**아성다이소**
@@ -125,11 +127,11 @@ SQL Developer
 기술스택 : HTML, CSS, JS, JSP, ORACLEERP 
 
 시스템에 매출 조회 메뉴 개발 
-
+ -->
 
 ![가로선](https://lh6.googleusercontent.com/ySMHM29SDIH4nkc2_rU43WHQEpqged7ARvShZ7pb450d0wPKoHO2Gux3_TpR_yAcLeM3Um_SCP8bUHsXKA9UclWar8i3hT0F3Qx-IWHhShCv7Nvdt0iGWAE8rHG9kLBqOWp0dAYA)
 
-🌱**EduCation & Study**📫    <br /> 
+🌱**EduCation & Study**    <br /> 
 
 부산외국어대학교
 
@@ -140,29 +142,35 @@ SQL Developer
 
 전체 평점 : 3.94/4.5 
 
-전공 평점 : 4.12/4.5![Points scored](https://lh6.googleusercontent.com/6HSF9cxNN6M48V05kzFZSK5ygyNcnZ-qZhN1tLXjUHBVdJ0_eE3CQaqwfPf0H7v8SOE6WPXx7bxB6gbAy_1df-F207SDi_SH4dWsncwwXZu-eI7AM7aspY-rTYdRFYQDkCGVKT1L)**기억에 남는 강의**
+전공 평점 : 4.12/4.5![Points scored](https://lh6.googleusercontent.com/6HSF9cxNN6M48V05kzFZSK5ygyNcnZ-qZhN1tLXjUHBVdJ0_eE3CQaqwfPf0H7v8SOE6WPXx7bxB6gbAy_1df-F207SDi_SH4dWsncwwXZu-eI7AM7aspY-rTYdRFYQDkCGVKT1L)
+
+
+📫**기억에 남는 강의**
 
 기업정보시스템 실무/ A+ / 
 
 정보시스템에 대한 기획/개발/테스트/운영에 대해 전반적인 흐름을 파악
 
-
+<br/>
 
 기업커뮤니케이션 실무/ A +/ 
 
 팀원들과 개발하는 과정과 방법들과 협업을 하기 위해 사용하는 문서 작성
 
+<br/>
 
 
 기업 맞춤형 프로젝트 기반 소프트웨어 실습/ A +/ 
 
 클라이언트와 서버 프로그램 간 데이터의 통신에 대한 방법 
 
+<br/>
 
 
 기업 맞춤형 프로젝트 기반 하드웨어 실습/ A +/
 
  내장형 시스템에 대해 프로그램을 적재하여 구동
+<br/>
 
 
 
@@ -170,6 +178,7 @@ SQL Developer
 
 관계형 데이터베이스를 사용하여 데이터 처리 방법에 대한 기본
 
+<br/>
 
 
 운영체제/ A+ / 
@@ -186,7 +195,7 @@ SQL Developer
 
 9회 동남권 sw 테스트 경진대회 3등 상/80명
 
-0부산외국어대학교 2019 프로그래밍 경시대회 장려상
+부산외국어대학교 2019 프로그래밍 경시대회 장려상
 
 2018 BUPC 참여2018 bufs 명저 읽기 18등
 
@@ -212,11 +221,11 @@ OPIC IM1
 
 ![가로선](https://lh6.googleusercontent.com/F9nNowRtdVgUINNg0k8ALDM_LLP5V0t-djf3AKIajJGyOSdpb0Dko4gmrXZ1uzLXWhXhY3GYF3IfzYoGTD6l60ZdCJ56soRTy2NxmmZta4BuO6OJXgeZ6A3fscc9FPuQtr3nh89n)
 
-**빅데이터 기반의 자바 웹 백엔드 고급개발자 양성과정	**
+**빅데이터 기반의 자바 웹 백엔드 고급개발자 양성과정**
 
-20.07.20-20.12.31	비트교육센터java, jsp, spring 기반의 백엔드 엔지니어 개발 과정제 
+20.07.20-20.12.31	비트교육센터java, jsp, spring 기반의 백엔드 엔지니어 개발 과정 
 
-**9차 동남권SW 품질역량센터 SW품질캠프	**
+**9차 동남권SW 품질역량센터 SW품질캠프**
 
 19.09.04-19.09.05	부산정보산업진흥원	sw test에 대한 화이트박스, 블랙박스 테스트, 테스트 케이스 작성, 테스트 실행 실무 과정
 
@@ -234,19 +243,23 @@ OPIC IM1
 
 **알고리즘, 자료구조 스터디**
 
-21.03.29-21.07.05 매주 백준, 프로그래머스에서 문제를 정하여 자료구조와 알고리즘을 사용해 Python으로 최적화된 코드를 만드는 법을 공부하였습니다
+21.03.29-21.07.05 매주 백준, 프로그래머스에서 문제를 정하여 자료구조와 알고리즘을 사용해 Python으로 최적화된 코드를 만드는 법을 공부하였습니다<br/>
+
 
 **부산외대 LINC+ 프로그래밍 동아리 BAAM 동아리**
 
-19.05.04-20.02.271주일 각, 컴퓨터공학 주제 스터디, 산학EXPO, 서울시 앱공모전, 부산 LINC+ 캡스톤 경진대회, 부산외국어대학교 알고리즘 대회 참여
+19.05.04-20.02.271주일 각, 컴퓨터공학 주제 스터디, 산학EXPO, 서울시 앱공모전, 부산 LINC+ 캡스톤 경진대회, 부산외국어대학교 알고리즘 대회 참여<br/>
+
 
 **2019 산학협력 EXPO**	
 
-19.11.06-19.11.08한국연구재단산학EXPO 부산외대 부스 전자기타 작품 전시
+19.11.06-19.11.08한국연구재단산학EXPO 부산외대 부스 전자기타 작품 전시<br/>
+
 
 **2019 서울시 스마트 앱 공모전**
 
-19.07.14-19.09.30집수리 관련 어플리케이션 출품 
+19.07.14-19.09.30집수리 관련 어플리케이션 출품 <br/>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
 
