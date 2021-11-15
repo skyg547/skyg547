@@ -86,7 +86,7 @@ Mybatis
 
 Slack
 
-Notin
+Notion
 
 Pycharm,
 
@@ -145,11 +145,14 @@ SQL Developer
 컴퓨터공학과, 스마트언어IT
 
 2015년 3월 - 2021년 2월, 부산
+
 취득 학점 : 133(전공 : 63, 부전공 : 21 , 교양 : 41, 일반 : 6) 
 
 전체 평점 : 3.94/4.5 
 
-전공 평점 : 4.12/4.5![Points scored](https://lh6.googleusercontent.com/6HSF9cxNN6M48V05kzFZSK5ygyNcnZ-qZhN1tLXjUHBVdJ0_eE3CQaqwfPf0H7v8SOE6WPXx7bxB6gbAy_1df-F207SDi_SH4dWsncwwXZu-eI7AM7aspY-rTYdRFYQDkCGVKT1L)
+전공 평점 : 4.12/4.5
+
+![Points scored](https://lh6.googleusercontent.com/6HSF9cxNN6M48V05kzFZSK5ygyNcnZ-qZhN1tLXjUHBVdJ0_eE3CQaqwfPf0H7v8SOE6WPXx7bxB6gbAy_1df-F207SDi_SH4dWsncwwXZu-eI7AM7aspY-rTYdRFYQDkCGVKT1L)
 
 
 📫**기억에 남는 강의**
@@ -159,6 +162,7 @@ SQL Developer
 정보시스템에 대한 기획/개발/테스트/운영에 대해 전반적인 흐름을 파악
 
 <br/>
+
 
 기업커뮤니케이션 실무/ A +/ 
 
@@ -176,7 +180,8 @@ SQL Developer
 
 기업 맞춤형 프로젝트 기반 하드웨어 실습/ A +/
 
- 내장형 시스템에 대해 프로그램을 적재하여 구동
+내장형 시스템에 대해 프로그램을 적재하여 구동
+
 <br/>
 
 
@@ -250,22 +255,30 @@ OPIC IM1
 
 **알고리즘, 자료구조 스터디**
 
-21.03.29-21.07.05 매주 백준, 프로그래머스에서 문제를 정하여 자료구조와 알고리즘을 사용해 Python으로 최적화된 코드를 만드는 법을 공부하였습니다<br/>
+21.03.29-21.07.05 
+
+매주 백준, 프로그래머스에서 문제를 정하여 자료구조와 알고리즘을 사용해 Python으로 최적화된 코드를 만드는 법을 공부하였습니다<br/>
 
 
 **부산외대 LINC+ 프로그래밍 동아리 BAAM 동아리**
 
-19.05.04-20.02.271주일 각, 컴퓨터공학 주제 스터디, 산학EXPO, 서울시 앱공모전, 부산 LINC+ 캡스톤 경진대회, 부산외국어대학교 알고리즘 대회 참여<br/>
+19.05.04-20.02.27
+
+1주일 각, 컴퓨터공학 주제 스터디, 산학EXPO, 서울시 앱공모전, 부산 LINC+ 캡스톤 경진대회, 부산외국어대학교 알고리즘 대회 참여<br/>
 
 
 **2019 산학협력 EXPO**	
 
-19.11.06-19.11.08한국연구재단산학EXPO 부산외대 부스 전자기타 작품 전시<br/>
+19.11.06-19.11.08
+
+한국연구재단산학EXPO 부산외대 부스 전자기타 작품 전시<br/>
 
 
 **2019 서울시 스마트 앱 공모전**
 
-19.07.14-19.09.30집수리 관련 어플리케이션 출품 <br/>
+19.07.14-19.09.30
+
+집수리 관련 어플리케이션 출품 <br/>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
