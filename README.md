@@ -35,19 +35,11 @@ Blog : https://ho-log.tistory.com/
 
 
 <h4>Web Client</h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-<p>Xplatform</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" /><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 
 <h4>Web Server</h4>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
 Java SQL Junit4 Mockito Spring Boot Spring MVC JPA Mybatis
 
 <h4>Data</h4>
@@ -58,9 +50,7 @@ Java SQL Junit4 Mockito Spring Boot Spring MVC JPA Mybatis
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
 
 <h5>Collaboration & Tools </h5>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
-<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" /><img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 Slack Notion Github SVN Google Docs, Presentation, SpreadSheet
 
 
