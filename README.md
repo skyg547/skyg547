@@ -8,17 +8,11 @@
 
 안녕하세요. 1년차 개발자 하성호입니다.<br/><br/>
 실천하고 성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍 공부, 깃허브 커밋, 블로깅, 운동을 합니다 <br/><br/>
-
 사색하고 사람들과 이야기를 나눠, 함께하면서 성장 하는걸 굉장히 좋아합니다.<br/><br/>
 개발 중 드는 고민은, 다른 사람이 유지 보수 하기 쉽게, 확장성있고 가독성이 좋은 코드를 만드는 것에 관심이 많습니다.<br/><br/>
 프로라는 사명감과 기존에 있던 문제를 해결해 사람들이 새로운 경험을 통해 삶의 질을 향상 시켜 주어 좋아하는 것을 개발 하고싶습니다.<br/><br/>
 
 💬**Contact & Channel**
-
-
-Address : 경기도 남양주시 미금로 24, 다산동, 롯데 아파트 2동 603호
-
-Phone : (+82) 9013-1867
 
 EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
 
@@ -54,23 +48,7 @@ Blog : https://ho-log.tistory.com/
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
 
-XML
-
-Java
-
-SQL
-
-Junit4
-
-Mockito
-
-Spring Boot
-
-Spring MVC
-
-JPA
-
-Mybatis
+Java SQL Junit4 Mockito Spring Boot Spring MVC JPA Mybatis
 
 <h4>Data</h4>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -83,28 +61,9 @@ Mybatis
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
 <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+Slack Notion Github SVN Google Docs, Presentation, SpreadSheet
 
-Slack
 
-Notion
-
-Pycharm,
-
-Eclipse
-
-Github
-
-SVN
-
-Google Docs, Presentation, SpreadSheet
-
-PostMan
-
-InSomnia
-
-Toad
-
-SQL Developer
 <!-- 
 ![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
 
@@ -135,7 +94,7 @@ SQL Developer
 
 시스템에 매출 조회 메뉴 개발 
  -->
-
+<!-- 
 ![가로선](https://lh6.googleusercontent.com/ySMHM29SDIH4nkc2_rU43WHQEpqged7ARvShZ7pb450d0wPKoHO2Gux3_TpR_yAcLeM3Um_SCP8bUHsXKA9UclWar8i3hT0F3Qx-IWHhShCv7Nvdt0iGWAE8rHG9kLBqOWp0dAYA)
 
 🌱**EduCation & Study**    <br /> 
@@ -288,7 +247,7 @@ OPIC IM1
 집수리 관련 어플리케이션 출품 <br/>
 
 
-
+ -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
 
 
