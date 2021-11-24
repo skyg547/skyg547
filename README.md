@@ -20,7 +20,7 @@ Git Hub : https://github.com/skyg547
 
 Blog : https://ho-log.tistory.com/
 
-<img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" /><img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyg547" />
+<img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" /><img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
 
 
 👯**History**
