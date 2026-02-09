@@ -1,259 +1,69 @@
-<h1>👋 Hi there👋</h1>
-
-😄**Introduction**
-
-나이 : 29세(1996.11.04)
-
-안녕하세요. 4년차 개발자 하성호입니다.<br/>
-성장해 나가는데에 즐거움을 크게 느껴, 꾸준히 프로그래밍, 운동을 실천합니다 <br/><br/>
-사람들과 함께 이야기를 나누면서 성장 하는걸 굉장히 좋아합니다.<br/>
-시간이 지나도 읽기 쉽고 확장성있는 코드를 만드는 것에 관심이 많습니다.<br/><br/>
-프로그래머란 책임감으로 기존에 있던 현상을 분석하여 성능을 개선하고<br/>
-새로운 경험을 통해 삶의 질을 향상하여 사람들이 좋아해주고 찾게되는 프로그램을 개발 하고싶습니다.<br/><br/>
-
-💬**Contact & Channel**
-
-EMail : [skyg547@gmail.com](mailto:skyg547@gmail.com)
-
-Git Hub : https://github.com/skyg547
-
-Blog : https://ho-log.tistory.com/
-
-<img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" /><img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
-
-
-👯**History**
-![img](https://lh6.googleusercontent.com/qicqIC9QOavO_pyVee-NS3E7EWgHDtu2PySoU_qhhxx7IlzrWK_M3TIrzuGHVWzkjHC2f-9LohSGzdYOU6Xgzx5vqfX1KSAmQoEDhyjbotzHnjxUSZF7fGDPmsCIXE1wZNUodDNt)
-
-
-![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
-
-
-
-🔭**Tech Stack**
-
-
-<h4>Web Client</h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?stylt&logo=HTML5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" /><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-
-<h4>Web Server</h4>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /><img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&logo=JSON%20Web%20Tokens&logoColor=white" />
-Java SQL Junit4 Mockito Spring Boot Spring MVC JPA Mybatis
-
-<h4>Data</h4>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<p>Oracle</p>
-
-<h4>Infra</h4>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
-
-<h5>Collaboration & Tools </h5>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" /><img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-Slack Notion Github SVN Google Docs, Presentation, SpreadSheet
-
-
-<!-- 
-![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
-
-🔭**아성다이소**
-
-회계시스템 개발2021년 5월 - 현재, 강남 
-
-
-모바일 경비 청구 
-
-기술스택 : Android, IOS, HTML, CSS, JS, JQUERY, JAVA
-
-컴퓨터로만 사용 할수 있던 기존 회계 시스템 경비 청구기능을 모바일 버전으로 구현
-
-
-
-예산관리 
-
-기술스택 : Oracle, Java, Spring, Mybatis, Xplatform
-
-기존에 관리하던 예산 시스템의 비즈니스 로직과, 논리적 오류나는 부분을 개선하고, 데이터 테이블 교체 및 재설계, 서비스 유지보수 개발
-
-
-
-매출조회
-
-기술스택 : HTML, CSS, JS, JSP, ORACLEERP 
-
-시스템에 매출 조회 메뉴 개발 
- -->
-<!-- 
-![가로선](https://lh6.googleusercontent.com/ySMHM29SDIH4nkc2_rU43WHQEpqged7ARvShZ7pb450d0wPKoHO2Gux3_TpR_yAcLeM3Um_SCP8bUHsXKA9UclWar8i3hT0F3Qx-IWHhShCv7Nvdt0iGWAE8rHG9kLBqOWp0dAYA)
-
-🌱**EduCation & Study**    <br /> 
-
-부산외국어대학교
-
-컴퓨터공학과, 스마트언어IT
-
-2015년 3월 - 2021년 2월, 부산
-
-취득 학점 : 133(전공 : 63, 부전공 : 21 , 교양 : 41, 일반 : 6) 
-
-전체 평점 : 3.94/4.5 
-
-전공 평점 : 4.12/4.5
-
-![Points scored](https://lh6.googleusercontent.com/6HSF9cxNN6M48V05kzFZSK5ygyNcnZ-qZhN1tLXjUHBVdJ0_eE3CQaqwfPf0H7v8SOE6WPXx7bxB6gbAy_1df-F207SDi_SH4dWsncwwXZu-eI7AM7aspY-rTYdRFYQDkCGVKT1L)
-
-
-📫**기억에 남는 강의**
-
-기업정보시스템 실무/ A+ / 
-
-정보시스템에 대한 기획/개발/테스트/운영에 대해 전반적인 흐름을 파악
-
-<br/>
-
-
-기업커뮤니케이션 실무/ A +/ 
-
-팀원들과 개발하는 과정과 방법들과 협업을 하기 위해 사용하는 문서 작성
-
-<br/>
-
-
-기업 맞춤형 프로젝트 기반 소프트웨어 실습/ A +/ 
-
-클라이언트와 서버 프로그램 간 데이터의 통신에 대한 방법 
-
-<br/>
-
-
-기업 맞춤형 프로젝트 기반 하드웨어 실습/ A +/
-
-내장형 시스템에 대해 프로그램을 적재하여 구동
-
-<br/>
-
-
-
-데이터베이스/ A +/ 
-
-관계형 데이터베이스를 사용하여 데이터 처리 방법에 대한 기본
-
-<br/>
-
-
-운영체제/ A+ / 
-
-컴퓨터 공학과 OS에 대핸 이해, 수행방식에 대한 처리
-
-
-
-![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
-
-2019 부산권 LINC+ 연합 캡스톤 경진대회 최우수
-
-부산외국어대학교 2019 BCOPC 프로그래밍대회 	최우수
-
-9회 동남권 sw 테스트 경진대회 3등 상/80명
-
-부산외국어대학교 2019 프로그래밍 경시대회 장려상
-
-2018 BUPC 참여2018 bufs 명저 읽기 18등
-
-
-
-![가로선](https://lh6.googleusercontent.com/rO2v3sDVjdNwFxw-AxLXjTx3IoTqKjeqG5bYaNQnqPCYN1B6-42SPkIZ8LO6emQMGGjBpqlp__kM0Plc6wwiPc72EK_GYpK2J5zZMXB9MaQ7giauXA1MsstdQKeckZvWg2Lu9X2d)
-
-SQLD 
-
-리눅스마스터 2급
-
-정보처리기사
-
-Basic certifcate in software Testing
-
-1종보통운전면허
-
-토익 560
-
-OPIC IM1	
-
-
-
-![가로선](https://lh6.googleusercontent.com/F9nNowRtdVgUINNg0k8ALDM_LLP5V0t-djf3AKIajJGyOSdpb0Dko4gmrXZ1uzLXWhXhY3GYF3IfzYoGTD6l60ZdCJ56soRTy2NxmmZta4BuO6OJXgeZ6A3fscc9FPuQtr3nh89n)
-
-**빅데이터 기반의 자바 웹 백엔드 고급개발자 양성과정**
-
-20.07.20-20.12.31	
-
-비트교육센터java, jsp, spring 기반의 백엔드 엔지니어 개발 과정 
-
-
-**9차 동남권SW 품질역량센터 SW품질캠프**
-
-19.09.04-19.09.05	
-
-부산정보산업진흥원	sw test에 대한 화이트박스, 블랙박스 테스트, 테스트 케이스 작성, 테스트 실행 실무 과정
-
-
-**모바일 UX/UI 디자인 실무**
-
-19.08.20-19.08.22	
-
-부산정보산업진흥원	모바일 디자인에 관한 포토샵, 레이아웃, 사용자 인터페이스, 사용자 경혐 실무 과정
-
-
-
-![가로선](https://lh6.googleusercontent.com/F9nNowRtdVgUINNg0k8ALDM_LLP5V0t-djf3AKIajJGyOSdpb0Dko4gmrXZ1uzLXWhXhY3GYF3IfzYoGTD6l60ZdCJ56soRTy2NxmmZta4BuO6OJXgeZ6A3fscc9FPuQtr3nh89n)
-
-**알고리즘, 자료구조 스터디**
-
-21.03.29-21.07.05 
-
-매주 백준, 프로그래머스에서 문제를 정하여 자료구조와 알고리즘을 사용해 Python으로 최적화된 코드를 만드는 법을 공부하였습니다<br/>
-
-
-
-**부산외대 LINC+ 프로그래밍 동아리 BAAM 동아리**
-
-19.05.04-20.02.27
-
-1주일 각, 컴퓨터공학 주제 스터디, 산학EXPO, 서울시 앱공모전, 부산 LINC+ 캡스톤 경진대회, 부산외국어대학교 알고리즘 대회 참여<br/>
-
-
-
-**2019 산학협력 EXPO**	
-
-19.11.06-19.11.08
-
-한국연구재단산학EXPO 부산외대 부스 전자기타 작품 전시<br/>
-
-
-
-**2019 서울시 스마트 앱 공모전**
-
-19.07.14-19.09.30
-
-집수리 관련 어플리케이션 출품 <br/>
-
-
- -->
-
-<!--
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
--->
+# 👋 안녕하세요, 성장을 즐기는 엔지니어 하성호입니다.
+
+<p align="left">
+  <a href="https://ho-log.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:skyg547@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/skyg547"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+> **"책임감 있는 분석으로 성능을 개선하고, 일상의 질을 높이는 솔루션을 만듭니다."**
+
+- 🌱 **성장의 즐거움**: 꾸준한 프로그래밍과 운동을 통해 어제보다 나은 내일을 만듭니다.
+- 🤝 **함께하는 성장**: 동료들과 의견을 나누며 더 나은 방향을 찾는 과정을 소중히 여깁니다.
+- 🛠️ **지속 가능한 코드**: 시간이 지나도 읽기 쉽고 확장 가능한 구조를 설계하는 데 진심입니다.
+- 🎯 **목표**: 사용자가 사랑하고 먼저 찾는 가치 있는 프로그램을 개발하는 것입니다.
+
+---
+
+### 💼 Professional Experience
+**아성다이소 (ICT본부)** | *소프트웨어 엔지니어 (2021.05 - 현재)*
+
+* **회계 시스템 예산 관리 고도화**
+    * 기존 시스템의 비즈니스 로직 분석 및 논리적 오류 개선
+    * 데이터 테이블 재설계 및 리팩토링을 통한 유지보수성 향상
+* **모바일 경비 청구 시스템 구축**
+    * PC 기반 회계 시스템을 모바일로 확장 구현 (Android/iOS 대응)
+    * 사용자 접근성 개선 및 실시간 청구 프로세스 최적화
+* **매출 조회 모듈 개발**
+    * ERP 연동을 통한 실시간 매출 데이터 시각화 및 조회 기능 개발
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+#### 🗄️ Data & Infra
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🏆 Awards & Education
+* **부산권 LINC+ 연합 캡스톤 경진대회** | 최우수상
+* **부산외국어대학교 BCOPC 프로그래밍 대회** | 최우수상
+* **제9회 동남권 SW 테스트 경진대회** | 3위
+* **빅데이터 기반 자바 웹 백엔드 과정** | 비트교육센터 수료
+* **학력**: 부산외국어대학교 컴퓨터공학 전공 (전공 평점 4.12 / 4.5)
+
+---
+
+### 📊 Analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skyg547&count_private=true&show_icons=true&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyg547&layout=compact&theme=omni" />
+</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyg547" />
+</p>
